@@ -4,5 +4,9 @@ public class SolarSystem {
         solar.Stars="100";
         solar.Moon="4";
         solar.Planets="2";
+        FeatureSun xros=new FeatureSun();
+        xros.color="Blue";
+        xros.size="3.10^90";
+        
     }
 }
